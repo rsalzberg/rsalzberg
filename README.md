@@ -1,5 +1,3 @@
-- 👋 Hi, I’m @rsalzberg
-- 👀 I’m interested in providing communities with the information they need to advocate for change!
-- 🌱 I’m currently learning github!
+- 👋 Hi, I’m @rsalzberg. I’m interested in providing communities with the information they need to advocate for change!
 - 💞️ I’m looking to collaborate on projects where you need help with stata, basic regressions & econometrics, SQL, building reports, and data viz.
 - 📫 Add me on [LinkedIn](https://www.linkedin.com/in/rachel-salzberg/)
